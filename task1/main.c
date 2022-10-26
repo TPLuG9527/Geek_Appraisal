@@ -22,3 +22,4 @@ int main(void)
 		printf("%lf  %.19lf\n",x,final1);
 	         
 	}
+}
